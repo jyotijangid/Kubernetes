@@ -1,4 +1,4 @@
-ttach Volume to POD just like we attach Vol to Containers in Docker.
+attach Volume to POD just like we attach Vol to Containers in Docker.
 
 VOLUMES:
 ```
